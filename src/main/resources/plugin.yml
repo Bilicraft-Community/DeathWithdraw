@@ -1,0 +1,6 @@
+name: DeathWithdraw
+version: ${project.version}
+main: com.bilicraft.deathwithdraw.DeathWithdraw
+api-version: 1.17
+depend: [ Vault ]
+description: 死亡扣款
